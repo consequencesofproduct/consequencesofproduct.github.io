@@ -2,7 +2,7 @@ name: The Consequences Of Product
 description: A substack about the unintended consequences of digital products.
 meta_description: "A substack about the unintended consequences of digital products."
 
-aboutPage: true
+aboutPage: false
 
 markdown: kramdown
 highlighter: rouge
