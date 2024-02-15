@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
+name: The Consequences Of Product
 description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+meta_description: "A blog about the unintended consequences of digital products."
 
 aboutPage: true
 
@@ -9,15 +9,15 @@ highlighter: rouge
 
 plugins: [jekyll-paginate]
 paginate: 20
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'https://consequencesofproduct.com'
+google_analytics:
 disqus: false
-disqus_shortname: 'your-disqus-shortname'
+disqus_shortname: ''
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'https://consequencesofproduct.com'
+author:         'The Consequences Of Product'
+authorTwitter:  ''
 
 permalink:       /:year/:title/
 
